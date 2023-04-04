@@ -1,3 +1,10 @@
+# print("vamos somar 2 valores")
+
+# valor1 = int(input("Digite o primeiro valor "))
+# valor2 = int(input("Agora digite o segundo valor "))
+
+# soma = valor1 + valor2
+
 # print("a soma entre {} e {} é {}".format(valor1, valor2, soma))
 
 # from array import *
